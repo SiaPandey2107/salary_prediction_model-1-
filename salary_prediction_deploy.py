@@ -12,7 +12,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
-model = joblib.load("salary_prediction_model(1).pkl")
+model = joblib.load("salary_prediction_model (2).pkl")
 encoder = joblib.load("label_encoder.pkl")
 
 
